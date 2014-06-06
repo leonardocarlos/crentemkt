@@ -1,0 +1,14 @@
+[31-May-2013 07:51:46 America/Sao_Paulo] PHP Warning:  mysql_connect(): Unknown MySQL server host 'DB_SERVER' (1) in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 07:51:46 America/Sao_Paulo] PHP Fatal error:  Call to undefined function db_erro() in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 07:52:24 America/Sao_Paulo] PHP Warning:  mysql_connect(): Unknown MySQL server host 'DB_SERVER' (1) in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 07:52:24 America/Sao_Paulo] PHP Fatal error:  Call to undefined function db_erro() in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 07:52:31 America/Sao_Paulo] PHP Warning:  mysql_connect(): Unknown MySQL server host 'DB_SERVER' (1) in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 07:52:31 America/Sao_Paulo] PHP Fatal error:  Call to undefined function db_erro() in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 10:26:40 America/Sao_Paulo] PHP Warning:  mysql_connect(): Unknown MySQL server host 'DB_SERVER' (1) in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 10:26:40 America/Sao_Paulo] PHP Fatal error:  Call to undefined function db_erro() in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 10:50:33 America/Sao_Paulo] PHP Warning:  mysql_connect(): Unknown MySQL server host 'DB_SERVER' (1) in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 10:50:33 America/Sao_Paulo] PHP Fatal error:  Call to undefined function db_erro() in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 10:50:59 America/Sao_Paulo] PHP Warning:  mysql_connect(): Unknown MySQL server host 'DB_SERVER' (1) in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 10:50:59 America/Sao_Paulo] PHP Fatal error:  Call to undefined function db_erro() in /home/crentequefazmarketing.com.br/www/teste/inc/servidor.php on line 10
+[31-May-2013 13:36:46 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/crentequefazmarketing.com.br/www/teste/index.php:98) in /home/crentequefazmarketing.com.br/www/teste/login.php on line 1
+[31-May-2013 13:36:46 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/crentequefazmarketing.com.br/www/teste/index.php:98) in /home/crentequefazmarketing.com.br/www/teste/login.php on line 1
