@@ -1,1 +1,4 @@
-<p class="lead"> <iframe width="100%" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt&amp;geocode=&amp;q=Rua+Orlando+Bernardino+Lopes,+260+-+Centro+-+Nil%C3%B3polis&amp;ie=UTF8&amp;hq=&amp;hnear=R.+Orlando+Bernardino+Lopes,+260+-+Centro,+Nil%C3%B3polis+-+Rio+de+Janeiro,+26530-090&amp;t=m&amp;ll=-22.804431,-43.415158&amp;spn=0.009495,0.013733&amp;z=16&amp;iwloc=A&amp;output=embed"></iframe>  </p>
+<p class="lead"> 
+	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7351.689957654911!2d-43.3277358!3d-22.8821843!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997d2c619c47ed%3A0xe766700a757d9672!2sRua+Coronel+Magalh%C3%A3es%2C+67+-+Cascadura!5e0!3m2!1spt-BR!2sbr!4v1402096031885" width="100%" height="480" frameborder="0" style="border:0"></iframe>
+</p>
+
