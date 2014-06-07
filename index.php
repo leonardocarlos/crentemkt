@@ -116,17 +116,17 @@ require_once 'inc/config.php';
     <header>
     	<div class="span5 text-center">
         <img src="imagens/logo.png" alt="Logo Herança Camp">
-        <h2>Comunicação Social nas Igrejas</h2>
+        <h2>Aplicando o Marketing na Igreja</h2>
         <p>Estratégias :: Endomarketing :: Marketing Digital :: Debates <br> Redes Sociais</p>
       </div>
 
         <div class="span6 text-center pull-right">
         <img src="imagens/data_evento.png" alt="Data do Evento">
         <img src="imagens/investimento.png" alt="Investimento">
-<div class="btn-group">
+        
         <a class="btn btn-success btn-large" href="?p=inscricoes"><i class="icon-ok-sign"></i> Inscreva-se</a>
         <h4>Parcelado em até 12 vezes</h4>
-      	</div>
+      	
         <div>
                   <small>Inclui: Pasta de apoio, água, café da manhã, almoço,
 coffee break, <br>PDF das apresentações e certificado digital.</small>
@@ -166,7 +166,7 @@ coffee break, <br>PDF das apresentações e certificado digital.</small>
 <div id="footer">
 <footer class="container">
   <hr>
-<div class="span6">Todos os diretos reservados - <a href="<?php echo URL_BASE; ?>admin/" target="_blank">2013</a> | Crente que faz Marketing</div>
+<div class="span6">Todos os diretos reservados - <a href="<?php echo URL_BASE; ?>admin/" target="_blank">2014</a> | Crente que faz Marketing</div>
 
 <div class="span2 pull-right">
 <a href="http://www.leoartes.com.br" target="_blank" title="Léo Artes - Comunicação & Web"><img src="imagens/logo_leo.png" alt="Léo Artes - Comunicação &amp; Web"></a> </div>
