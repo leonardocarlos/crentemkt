@@ -133,7 +133,10 @@ coffee break, <br>PDF das apresentações e certificado digital.</small>
            </div>
         </div> <!-- span6 -->
         <div class="span11 alert alert-info text-center">
-           <a href="?p=comochegar"><h3>LOCAL: Rua Coronel Magalhães, 67 - Cascadura - Rio de Janeiro - RJ</h3></a>
+           <a href="?p=comochegar">
+            <h3>LOCAL: Auditório do Centro de Formação Teológica - Polo Cascadura <br>
+              Rua Coronel Magalhães, 67 - Cascadura - Rio de Janeiro - RJ</h3>
+          </a>
         </div>
     </header> <!-- header -->
 

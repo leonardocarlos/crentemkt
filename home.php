@@ -30,10 +30,6 @@
             	</a>
             </li>
         	<li><a href="?p=palestrantes" class="thumbnail inner-border" title="Clique para Conhecer o Palestrante">
-            		<img src="imagens/palestrantes/felipe.jpg" width="130" height="156" alt="Felipe Oliveira">
-            	</a>
-            </li>
-        	<li><a href="?p=palestrantes" class="thumbnail inner-border" title="Clique para Conhecer o Palestrante">
             		<img src="imagens/palestrantes/leandro.jpg" width="130" height="156" alt="Leandro Pedras">
             	</a>
             </li>

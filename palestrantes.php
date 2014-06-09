@@ -22,20 +22,6 @@
 
   <dl class="dl-horizontal">
 
-  <dt><img src="imagens/palestrantes/felipe.jpg" width="100px" height="100px" class="img-polaroid"/></dt>
-
-  <dd><h4>Felipe Oliveira</h4>
-
-  Graduação em Marketing - Dep. Comercial - Tribuna da Imprensa
-
-  </dd>
-
-  </dl>
-
-<hr>
-
-  <dl class="dl-horizontal">
-
   <dt><img src="imagens/palestrantes/leandro.jpg" width="100px" height="100px" class="img-polaroid"/></dt>
 
   <dd><h4>Leandro Pedras</h4>
